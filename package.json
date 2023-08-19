@@ -1,0 +1,21 @@
+{
+  "name": "vuejs-quickstart",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vant": "^3.6.12",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "less": "^3.12.2",
+    "normalize.css": "^8.0.1",
+    "unplugin-vue-components": "^0.22.7",
+    "vite": "^4.3.9"
+  }
+}
